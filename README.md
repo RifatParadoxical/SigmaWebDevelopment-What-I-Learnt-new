@@ -13,7 +13,7 @@ This repository documents my learning journey in front-end development through t
 - **JavaScript**: For adding interactivity and dynamic behavior.
 
 ## Course Details
-This repository is based on the course "What I Learnt New" by **Harry Bhai** from **CodeWithHarry**, a highly regarded platform for learning programming concepts.
+This repository is based on the course "Sigma Web development" by **Harry Bhai** from **CodeWithHarry**, a highly regarded platform for learning programming concepts.
 
 ## How to Use
 1. Clone this repository:
